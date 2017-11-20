@@ -1,0 +1,2 @@
+# HotelBookingSpec
+Afleveringsversion af HotelBooking
